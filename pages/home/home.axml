@@ -1,0 +1,6 @@
+<view class="empty">
+  HOME
+  <button size="default" type="primary" onTap="toggleBgm">开启/关闭音频</button>
+  <button size="default" type="primary" onTap="toEmpty">去测试页面</button>
+
+</view>

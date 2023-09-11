@@ -1,0 +1,5 @@
+<view class="empty">
+  EMPTY
+  <button size="default" type="primary" onTap="toggleBgm">开启/关闭音频</button>
+  <button size="default" type="primary" onTap="backHome">回主页</button>
+</view>

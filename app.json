@@ -1,0 +1,10 @@
+{
+  "pages": [
+    "pages/home/home",
+    "pages/empty/empty"
+  ],
+  "window": {
+    "defaultTitle": "",
+    "allowsBounceVertical": "NO"
+  }
+}

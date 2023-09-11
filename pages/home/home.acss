@@ -1,0 +1,7 @@
+page {
+  padding: 200rpx;
+}
+
+button {
+  margin-top: 100rpx;
+}
